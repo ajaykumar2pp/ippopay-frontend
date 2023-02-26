@@ -1,3 +1,35 @@
+# IppoPay  🚀🚀
+
+## ⭐ Introduction
+
+This is a IppoPay assignment Full Stack Developer Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-User can Add different value. <br/>
+-show the input array ..<br/>
+-sgow the answer ..<br/>
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+
+
+
+## 🔗 Links
+> ## CheckOut the website link  https://ippopay-full-stack-developer-project.netlify.app/
+<br/>
+<br/>
+## 💻 Screens
+###  FrontEnd (Reactjs)
+
+###  Backend (Data store in MongoDB)
+![Screenshot (155)](https://user-images.githubusercontent.com/102378038/221417343-6d748723-81fe-40bd-bd40-9ab0b6d68899.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
