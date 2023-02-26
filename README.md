@@ -9,7 +9,7 @@ This is a IppoPay assignment Full Stack Developer Project which is built using R
 ## Features
 -User can Add different value. <br/>
 -show the input array ..<br/>
--sgow the answer ..<br/>
+-show the answer ..<br/>
 <br/>
 <br/>
 
