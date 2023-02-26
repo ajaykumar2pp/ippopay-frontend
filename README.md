@@ -26,6 +26,7 @@ This is a IppoPay assignment Full Stack Developer Project which is built using R
 <br/>
 ## 💻 Screens
 ###  FrontEnd (Reactjs)
+![Screenshot (156)](https://user-images.githubusercontent.com/102378038/221417651-a848ab89-7191-47a3-87b1-2ac8b22e6661.png)
 
 ###  Backend (Data store in MongoDB)
 ![Screenshot (155)](https://user-images.githubusercontent.com/102378038/221417343-6d748723-81fe-40bd-bd40-9ab0b6d68899.png)
