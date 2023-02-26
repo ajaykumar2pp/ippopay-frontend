@@ -1,24 +1,22 @@
-import logo from './logo.svg';
+import Form from "./Form"
+import TableResult from "./Table";
 import './App.css';
-
+import { minimumDifference } from "./minimumDifference";
 function App() {
   return (
+    <>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h2>Ippo Pay Assignment Full Stack Developer</h2>
     </div>
+    <div className="row">
+      <div className="col-md-12">
+        <h3 className="text-danger text-center">Difference between the sums of the arrays </h3>
+      </div>
+    <Form />
+    <TableResult />
+
+    </div>
+    </>
   );
 }
 
